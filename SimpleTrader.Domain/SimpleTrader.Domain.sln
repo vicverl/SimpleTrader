@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTrader.Domain", "SimpleTrader.Domain\SimpleTrader.Domain.csproj", "{FCA02E7A-3364-40AB-A133-6E0092F5BC76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTrader.EntityFramework", "SimpleTrader.EntityFramework\SimpleTrader.EntityFramework.csproj", "{1628B748-F344-4F09-A09C-DDA827F261C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA02E7A-3364-40AB-A133-6E0092F5BC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA02E7A-3364-40AB-A133-6E0092F5BC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA02E7A-3364-40AB-A133-6E0092F5BC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA02E7A-3364-40AB-A133-6E0092F5BC76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1628B748-F344-4F09-A09C-DDA827F261C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1628B748-F344-4F09-A09C-DDA827F261C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1628B748-F344-4F09-A09C-DDA827F261C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1628B748-F344-4F09-A09C-DDA827F261C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11DEEC3F-AC94-467D-A41E-056929861FE6}
+	EndGlobalSection
+EndGlobal

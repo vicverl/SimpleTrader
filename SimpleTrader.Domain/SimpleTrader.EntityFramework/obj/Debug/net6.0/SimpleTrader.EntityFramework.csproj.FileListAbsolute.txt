@@ -1,0 +1,17 @@
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\bin\Debug\net6.0\SimpleTrader.EntityFramework.deps.json
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\bin\Debug\net6.0\SimpleTrader.EntityFramework.runtimeconfig.json
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\bin\Debug\net6.0\SimpleTrader.EntityFramework.dll
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\bin\Debug\net6.0\SimpleTrader.EntityFramework.pdb
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\bin\Debug\net6.0\SimpleTrader.Domain.dll
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\bin\Debug\net6.0\SimpleTrader.Domain.pdb
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.csproj.AssemblyReference.cache
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.AssemblyInfoInputs.cache
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.AssemblyInfo.cs
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.csproj.CoreCompileInputs.cache
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.csproj.CopyComplete
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.dll
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\obj\Debug\net6.0\refint\SimpleTrader.EntityFramework.dll
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.pdb
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.genruntimeconfig.cache
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.EntityFramework\obj\Debug\net6.0\ref\SimpleTrader.EntityFramework.dll
