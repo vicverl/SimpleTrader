@@ -30,13 +30,15 @@ namespace SimpleTrader.EntityFramework.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("AccountHolder")
+                    b.Property<int>("AccountHolderId")
                         .HasColumnType("int");
 
                     b.Property<double>("Balance")
                         .HasColumnType("float");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("AccountHolderId");
 
                     b.ToTable("Accounts");
                 });
@@ -94,6 +96,17 @@ namespace SimpleTrader.EntityFramework.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("SimpleTrader.Domain.Models.Account", b =>
+                {
+                    b.HasOne("SimpleTrader.Domain.Models.User", "AccountHolder")
+                        .WithMany()
+                        .HasForeignKey("AccountHolderId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("AccountHolder");
                 });
 
             modelBuilder.Entity("SimpleTrader.Domain.Models.AssetTransaction", b =>
