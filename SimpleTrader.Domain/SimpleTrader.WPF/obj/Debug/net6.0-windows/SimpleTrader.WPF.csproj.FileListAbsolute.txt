@@ -24,3 +24,14 @@ D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.WPF\obj\Deb
 D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.WPF\obj\Debug\net6.0-windows\ref\SimpleTrader.WPF.dll
 D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.WPF\obj\Debug\net6.0-windows\Styles\Common.baml
 D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.WPF\obj\Debug\net6.0-windows\App.baml
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.WPF\obj\Debug\net6.0-windows\Views\HomeView.g.cs
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.WPF\obj\Debug\net6.0-windows\Views\PortfolioView.g.cs
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.WPF\obj\Debug\net6.0-windows\Views\HomeView.baml
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.WPF\obj\Debug\net6.0-windows\Views\PortfolioView.baml
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.WPF\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.WPF\bin\Debug\net6.0-windows\SimpleTrader.Domain.dll
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.WPF\bin\Debug\net6.0-windows\SimpleTrader.FinancialModelingPrepAPI.dll
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.WPF\bin\Debug\net6.0-windows\SimpleTrader.FinancialModelingPrepAPI.pdb
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.WPF\bin\Debug\net6.0-windows\SimpleTrader.Domain.pdb
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.WPF\obj\Debug\net6.0-windows\SimpleTrader.WPF.csproj.CopyComplete
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.WPF\obj\Debug\net6.0-windows\Styles\NavigationBar.baml

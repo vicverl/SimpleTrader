@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
+using SimpleTrader.FinancialModelingPrepAPI.Services;
 using SimpleTrader.WPF.State.Navigation;
 using SimpleTrader.WPF.ViewModels;
 
@@ -32,7 +33,7 @@ public class UpdateCurrentViewModelCommand : ICommand
             switch (viewType)
             {
                 case ViewType.Home:
-                    _navigator.CurrentViewModel = new HomeViewModel();
+                    _navigator.CurrentViewModel = new HomeViewModel(MajorIndexViewModel.LoadMajorIndexViewModel(new MajorIndexService()));
                     break;
                 case ViewType.Portfolio:
                     _navigator.CurrentViewModel = new PortfolioViewModel();

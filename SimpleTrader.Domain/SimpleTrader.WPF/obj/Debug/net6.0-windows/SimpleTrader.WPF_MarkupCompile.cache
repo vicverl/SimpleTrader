@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.WPF\App.xaml
-3-637956962
+6-143285817
 
-11-158796213
-194618410957
-Controls\NavigationBar.xaml;MainWindow.xaml;Styles\Common.xaml;
+15-958808980
+197-808150451
+Controls\NavigationBar.xaml;MainWindow.xaml;Styles\Common.xaml;Styles\NavigationBar.xaml;Views\HomeView.xaml;Views\PortfolioView.xaml;
 
 False
 

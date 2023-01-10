@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "IfDobwBIeiPH4oqssYVA1SXZFbP2vLV3zBbyvCiMNvf1KJ57SEChIdc3FWKzWnWO1SZwWZb+W6jM+K+2rZNxkw==",
+  "dgSpecHash": "3CA863sHp4Ha00VGY4zG2a7K/1WLEp4jC4VXfnNWFDnY+NFXm/Zq3G4TRzGnSi9bnOCR3eBMaHjVWMGmBC56AQ==",
   "success": true,
   "projectFilePath": "D:\\1 - Docs\\5 - GitHub\\SimpleTrader\\SimpleTrader.Domain\\SimpleTrader.WPF\\SimpleTrader.WPF.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\candy\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\candy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\candy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\candy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\candy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

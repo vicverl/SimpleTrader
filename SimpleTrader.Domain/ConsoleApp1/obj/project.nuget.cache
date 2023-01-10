@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WbABV5T0WUSIMNIsXtkNHZ4/qQGLvU+QTPNHLX6KG4xmSCMehJXTDo/tDmQoKxkO8lrp90RV2Md57LvV4oTPdw==",
+  "dgSpecHash": "k6Ppk9vCf98IRiBVi3bbosGQuR4FbiXXTgzcnFw3kELcXQ7bIVbvhBhfKdLbLBXRgiDbchjMgiJxP20D2HNHUw==",
   "success": true,
   "projectFilePath": "D:\\1 - Docs\\5 - GitHub\\SimpleTrader\\SimpleTrader.Domain\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
@@ -65,7 +65,11 @@
     "C:\\Users\\candy\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\candy\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\candy\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\candy\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+    "C:\\Users\\candy\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\candy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\candy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\candy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\candy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
   ],
   "logs": []
 }

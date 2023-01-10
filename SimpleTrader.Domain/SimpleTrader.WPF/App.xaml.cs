@@ -5,6 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
+using SimpleTrader.FinancialModelingPrepAPI.Services;
 using SimpleTrader.WPF.ViewModels;
 
 namespace SimpleTrader.WPF;
@@ -16,8 +17,15 @@ public partial class App : Application
 {
     protected override void OnStartup(StartupEventArgs e)
     {
-        var window = new MainWindow();
-        window.DataContext = new MainViewModel();
+        //new MajorIndexService().GetMajorIndex(Domain.Models.MajorIndexType.DowJones).ContinueWith((task) =>
+        //{
+        //    var index = task.Result;
+        //});
+
+        var window = new MainWindow
+        {
+            DataContext = new MainViewModel()
+        };
         window.Show();
 
         base.OnStartup(e);

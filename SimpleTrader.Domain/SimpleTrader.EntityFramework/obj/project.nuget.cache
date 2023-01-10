@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mZREBEMgpGXI/o2pLpRpZscv+ug2h7vzy3elgWNWg930odvc/kSB/xRhjdDPcQHjGyi8LjmuNsta+4T3ITU2JQ==",
+  "dgSpecHash": "pxgksvaO1CgPLBW4Nf0IlxRYsAxFU6YdMg9jjxoezBCtx5ydwHNJ2MVeYW+HNuY9lG+g7WgPxI+UKVEO1PGaHg==",
   "success": true,
   "projectFilePath": "D:\\1 - Docs\\5 - GitHub\\SimpleTrader\\SimpleTrader.Domain\\SimpleTrader.EntityFramework\\SimpleTrader.EntityFramework.csproj",
   "expectedPackageFiles": [
@@ -71,7 +71,10 @@
     "C:\\Users\\candy\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\candy\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\candy\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\candy\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+    "C:\\Users\\candy\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\candy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\candy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\candy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
   ],
   "logs": []
 }

@@ -9,5 +9,5 @@ namespace SimpleTrader.WPF.ViewModels;
 
 public class MainViewModel : ViewModelBase
 {
-    private INavigator Navigator { get; set; } = new Navigator();
+    public INavigator Navigator { get; set; } = new Navigator();
 }

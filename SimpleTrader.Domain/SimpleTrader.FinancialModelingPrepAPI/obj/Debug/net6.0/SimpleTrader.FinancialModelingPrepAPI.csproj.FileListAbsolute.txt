@@ -1,0 +1,15 @@
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.FinancialModelingPrepAPI\bin\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.deps.json
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.FinancialModelingPrepAPI\bin\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.dll
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.FinancialModelingPrepAPI\bin\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.pdb
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.FinancialModelingPrepAPI\bin\Debug\net6.0\SimpleTrader.Domain.dll
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.FinancialModelingPrepAPI\bin\Debug\net6.0\SimpleTrader.Domain.pdb
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.csproj.AssemblyReference.cache
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.AssemblyInfoInputs.cache
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.AssemblyInfo.cs
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.csproj.CoreCompileInputs.cache
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.csproj.CopyComplete
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.dll
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\refint\SimpleTrader.FinancialModelingPrepAPI.dll
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\SimpleTrader.FinancialModelingPrepAPI.pdb
+D:\1 - Docs\5 - GitHub\SimpleTrader\SimpleTrader.Domain\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\net6.0\ref\SimpleTrader.FinancialModelingPrepAPI.dll
